@@ -17,9 +17,7 @@ Team Members:
 * [TrafficSignRecognition_ResNet.ipynb](TrafficSignRecognition_ResNet.ipynb) contains the recognition performed with the ResNet50 model
 * [TrafficSignDetection.ipynb](TrafficSignDetection.ipynb) contains the object detection performed with the YOLOv7 model
 * [TrafficSignCV_Demo.ipynb](TrafficSignCV_Demo.ipynb) contains the demo and combination of both models
-* [docs](docs) contains the documentation.
-* Test
-* Test
+* [docs](docs) contains the documentation and presentation
 * [recognition](recognition) and [yolov7](yolov7) contain the saved models
 
-
+All data is available in the following google drive folder [https://drive.google.com/drive/folders/14zvs_AtBkuyONDn2Y9my_nEr7s2jqosk?usp=sharing](https://drive.google.com/drive/folders/14zvs_AtBkuyONDn2Y9my_nEr7s2jqosk?usp=sharing)
