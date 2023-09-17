@@ -6,9 +6,9 @@ It includes a traffic sign detection, traffic sign classification and one demo t
 
 Team Members:
 
-    * Max Bernauer (5763624)
-    * Philipp Dingfelder (8687786)
-    * Valentin Moritz Müller (4616344)
+    * Max Bernauer 
+    * Philipp Dingfelder 
+    * Valentin Moritz Müller 
 
 ## Structure
 
